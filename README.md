@@ -1,2 +1,2 @@
 # Portfolio
-Portfolio made with front-end web technologies 
+Portfolio made with HTML, CSS and JavaScript 
