@@ -265,6 +265,7 @@ section .button {
 
 section .button button {
     margin-left: 42%;
+    margin-top: 1%;
     padding: 9px 34px;
     border-radius: 4px;
     font-size: 25px;
